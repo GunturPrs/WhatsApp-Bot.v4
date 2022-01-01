@@ -1,0 +1,50 @@
+{
+  "name": "GunturP",
+  "version": "1.0.0",
+  "description": "TINGGAL PAKE GAK USAH BANYAK BACOT",
+  "main": "start.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start"
+  },
+  "keywords": [
+    "termux",
+    "whatsapp",
+    "bot",
+    "whatsapp",
+    "bot",
+    "wa"
+  ],
+  "author": "GunturP",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.1",
+    "async": "^3.2.0",
+    "axios": "^0.21.1",
+    "cfonts": "^2.9.0",
+    "escape-string-regexp": "^5.0.0",
+    "fake-useragent": "^1.0.1",
+    "file-type": "^16.2.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "lolis.life": "^4.0.0",
+    "moment-timezone": "^0.5.32",
+    "multistream": "^4.0.1",
+    "node-fetch": "^2.6.1",
+    "remove.bg": "^1.3.0",
+    "request": "^2.81.0",
+    "spinnies": "^0.5.1",
+    "tiktok-scraper": "^1.4.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GunturPrs/"
+  },
+  "bugs": {
+    "url": "https://github.com/GunturPrs/"
+  },
+  "homepage": "https://github.com/GunturPrs/"
+}

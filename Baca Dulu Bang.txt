@@ -1,0 +1,52 @@
+Script Ini Gua Buat Mulai Hari Senin Kemaren
+Script Ini Gua Buat Bertujuan Untuk Mengisi KeGabutan Gua
+Script Ini Tidak Memakai ApiKey, Jadi Jangan Berharap
+dapat ApiKey gratisan
+
+
+🗣️: Bang Minggu Ini Lu kok Gk upload videonya sih?
+👤: Gua Gak upload karena gak enak badan
+
+👥️: Bang ini kok error mulu sih tiap pake sc lu?
+👤: Yang error bukan sc gua tapi lu salah recode
+   atau lu salah masukin command termux.
+   Mangkanya tonton sampe habis jangan main skip
+👥: Terus cara ganti owner, wm stick, nama botnya gimana?
+👤: Lu tinggal masuk ke file ./message/config.js aja
+   itu lu bisa ubah semuanya disitu
+
+
+
+BUAT KALIAN YANG TANYA KOK ERROR? 
+   LU FIX IN SENDIRI AJA, SCRIPT DAH GAK ENC.
+   TERUS KALO KALIAN TANYA SCREENSHOT AN NYA JANGAN
+   DI CUT AJG.
+   
+   
+SCRIPT INI WM NYA DIKIT TAPI KALIAN JANGAN ASAL HAPUS/
+   GANTI, APALAGI SAMPE NGAKU BUATAN SENDIRI TERUS
+   DI JUAL. 
+   
+   
+INGAN!! DILARANG KERAS TOD
+
+
+
+
+## COMMAND
+
+$ apt-get update
+$ apt-get upgrade
+
+Instalasi
+$ apt-get install nodejs
+$ apt-get install libwebp
+$ apt-get install ffmpeg
+$ apt-get install wget
+$ apt-get install tesseract
+$ apt-get install nmap
+$ npm install
+
+Running
+$ npm start
+
