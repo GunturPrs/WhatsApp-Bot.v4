@@ -11,6 +11,9 @@ const packname = "Stick me";
 const thumbnail = fs.readFileSync("./media/image/thumbnail.png");
 const fakeImage = fs.readFileSync("./media/image/fake.png");
 
+const lolkey = 'ciko' //ini apikey dari lolhuman
+const zekskey = 'GunturPrst' //ini apikey dari zeks
+
 const autoread = false;
 const autocomposing = false;
 const autorecording = false;
@@ -48,6 +51,8 @@ module.exports = {
       packname,
       thumbnail,
       fakeImage,
+      lolkey,
+      zekskey,
       autoread,
       autocomposing,
       autorecording,
